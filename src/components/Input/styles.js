@@ -11,6 +11,8 @@ export const InputContainer = styled.div`
 
     font-size: 24px;
     font-family: 'Roboto';
+
+    border-radius: 6px ;
     
 
     input {
@@ -25,5 +27,7 @@ export const InputContainer = styled.div`
         font-size: 24px;
         font-family: 'Roboto';
         color: #FFFFFF;
+
+        border-radius: 6px 6px 0 0 ;
     }
 `
